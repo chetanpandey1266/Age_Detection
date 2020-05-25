@@ -3,6 +3,7 @@ Analytics Vidya CV competition
 
 ### Practices I followed
 1. I used 4 different pretrained models.
+
 (a) Resnet50 - 0.66109-0.73312
 
 (b) Densenet121 - 0.6675-0.8292
