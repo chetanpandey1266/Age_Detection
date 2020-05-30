@@ -1,6 +1,8 @@
 # Age_Detection_of_Actors
 Analytics Vidya CV Practice Problem
 
+![](age_did-thumbnail-1200x1200.png)
+
 ### Practices I followed
 1. I used 4 different pretrained models.
 
