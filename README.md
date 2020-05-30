@@ -1,5 +1,5 @@
 # Age_Detection_of_Actors
-Analytics Vidya CV competition
+Analytics Vidya CV Practice Problem
 
 ### Practices I followed
 1. I used 4 different pretrained models.
