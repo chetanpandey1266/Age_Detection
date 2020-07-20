@@ -3,7 +3,7 @@ Analytics Vidya CV Practice Problem
 
 ![](age_did-thumbnail-1200x1200.png)
 
-### Practices I followed
+### Things I did
 1. I used 4 different pretrained models.
 
 (a) Resnet50 - 0.66109-0.73312
